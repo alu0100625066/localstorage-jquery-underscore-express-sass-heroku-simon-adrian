@@ -1,0 +1,23 @@
+{
+  "name": "localstorage-jquery-underscore-express-sass-heroku-simon-adrian",
+  "version": "1.0.0",
+  "description": "For more information look at:",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-GRADOII-PL/localstorage-jquery-underscore-express-sass-heroku-simon-adrian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-GRADOII-PL/localstorage-jquery-underscore-express-sass-heroku-simon-adrian/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-GRADOII-PL/localstorage-jquery-underscore-express-sass-heroku-simon-adrian#readme"
+}
