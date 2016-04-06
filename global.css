@@ -59,3 +59,11 @@ tr.error {
 body {
   background-color: #b0c4de;
 }
+#test {
+  position:fixed;
+  bottom: 10px;
+}
+#test button {
+  width: 100px;
+  height: 40px;
+}
