@@ -1,10 +1,10 @@
 var gulp = require('gulp'),
   uglify = require('gulp-uglify'),
-  rename = require('gulp-rename'),
   del = require('del'),
   minifyHTML = require('gulp-minify-html'),
-  minifyCSS = require('gulp-minify-css');
-
+  karma = require('karma').server,
+  gulp = require('gulp');
+  
 gulp.task('minify', function() {
   gulp.src(['!assets/js/*.min.js', 'assets/js/*.js'])
     .pipe(uglify())
@@ -28,6 +28,13 @@ gulp.task('minify', function() {
       path.basename += ".min"
     }))
     .pipe(gulp.dest('assets/css'))
+});
+
+gulp.task('tests', function(done) {
+  return karma.start({
+    configFile: __dirname + '/karma.conf.js',
+    singleRun: true
+  }, done);
 });
 
 gulp.task('clean', function(cb) {
