@@ -13,5 +13,5 @@ For more information look at:
  
 Páginas de Autores:
 
-* [Adrián Mesa Jauber](alu0100614220.github.io)
-* [Simón Fuertes Sánchez](alu0100625066.github.io)
+* [Adrián Mesa Jauber](http://alu0100614220.github.io)
+* [Simón Fuertes Sánchez](http://alu0100625066.github.io)
