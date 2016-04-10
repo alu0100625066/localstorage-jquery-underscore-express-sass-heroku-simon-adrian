@@ -1,5 +1,9 @@
 #ETSII ULL Grado de Informatica 
+<<<<<<< HEAD
+#Práctica: LocalStorage-JQuery-Underscore-Expess-Sass-Heroku  [![Build Status](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian.svg?branch=master)](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian)
+=======
 #Práctica: LocalStorage-JQuery-Underscore-Expess-Sass-Heroku  
+>>>>>>> master
 
 #Comma Separated Values  [![Build Status](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian.svg?branch=master)](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian)
 
