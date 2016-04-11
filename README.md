@@ -1,9 +1,6 @@
-#ETSII ULL Grado de Informatica 
-<<<<<<< HEAD
-#Práctica: LocalStorage-JQuery-Underscore-Expess-Sass-Heroku  [![Build Status](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian.svg?branch=master)](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian)
-=======
+#ETSII ULL Grado de Informatica
+
 #Práctica: LocalStorage-JQuery-Underscore-Expess-Sass-Heroku  
->>>>>>> master
 
 #Comma Separated Values  [![Build Status](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian.svg?branch=master)](https://travis-ci.org/alu0100625066/localstorage-jquery-underscore-express-sass-heroku-simon-adrian)
 
@@ -14,7 +11,7 @@ For more information look at:
 * See it working at [CSV en GitHub Pages](http://alu0100625066.github.io/localstorage-jquery-underscore-express-sass-heroku-simon-adrian/public/views/)
 * Funcionando en [Heroku](https://csv-adrian-simon.herokuapp.com/)
 * See also [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) at Wikipedia.
- 
+
 Páginas de Autores:
 
 * [Adrián Mesa Jauber](http://alu0100614220.github.io)
